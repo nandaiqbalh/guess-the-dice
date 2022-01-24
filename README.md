@@ -47,7 +47,7 @@
 ## About The Project
 
  <a href="#">
-    <img src="https://raw.githubusercontent.com/nandaiqbalh/guess-the-dice/master/app/src/main/res/drawable/screenshot.png" alt="Screenshoot" width="80" height="80">
+    <img src="https://i.ibb.co/BTBXVVS/screenshot.png" alt="Screenshoot" width="80" height="80">
  </a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
