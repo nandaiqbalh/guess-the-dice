@@ -77,6 +77,15 @@ Do these steps to run this app on your Android Studio :
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Getting Started
+
+In this application, I learned several things.
+1. How to use splash screen on android apps.
+2. How to design xml using relative layout and linear layout.
+3. How to use array and random number generator.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
