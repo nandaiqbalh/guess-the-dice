@@ -46,9 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
- <a href="#">
-    <img src="app/src/main/res/drawable/dice_demo.gif" alt="Screenshoot" width="80" height="80">
- </a>
+(https://github.com/nandaiqbalh/guess-the-dice/app/src/main/res/drawable/dice_demo.gif)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
