@@ -47,7 +47,7 @@
 ## About The Project
 
  <a href="#">
-    <img src="https://i.ibb.co/BTBXVVS/screenshot.png" alt="Screenshoot" width="80" height="80">
+    <img src="app/src/main/res/drawable/dice_demo.gif" alt="Screenshoot" width="80" height="80">
  </a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -105,7 +105,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@nandaiqbalh](https://instagram.com/nandaiqbalh) - nandaiqbalhanafii@gmail.com
+Nanda Iqbal Hanafi - [@nandaiqbalh](https://instagram.com/nandaiqbalh) - nandaiqbalhanafii@gmail.com
 
 Project Link: [https://github.com/nandaiqbalh/guess-the-dice](https://github.com/nandaiqbalh/guess-the-dice)
 
