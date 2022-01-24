@@ -46,6 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+See the demo on the link below!
 (https://github.com/nandaiqbalh/guess-the-dice/blob/master/app/src/main/res/drawable/dice_demo.gif)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
