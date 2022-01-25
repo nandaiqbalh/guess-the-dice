@@ -75,7 +75,7 @@ Do these steps to run this app on your Android Studio :
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Getting Started
+## What I Learned
 
 In this application, I learned several things.
 1. How to use splash screen on android apps.
